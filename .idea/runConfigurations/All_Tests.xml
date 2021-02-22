@@ -4,8 +4,7 @@
     <option name="allowRunningInParallel" value="false" />
     <option name="apexLogLevel" value="DEBUG" />
     <option name="calloutsLogLevel" value="INFO" />
-    <option name="connectionName" value="sfdx-maria" />
-
+    <option name="connectionName" value="sfdx-chan" />
     <option name="connectionType" value="SFDX" />
     <option name="contextConfiguration" value="false" />
     <option name="databaseLogLevel" value="INFO" />

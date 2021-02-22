@@ -4,12 +4,10 @@
     <option name="connections">
       <list>
         <IlluminatedCloudConnection>
-
-          <option name="connectionName" value="sfdx-maria" />
+          <option name="connectionName" value="sfdx-chan" />
           <option name="connectionType" value="SFDX" />
           <option name="defaultModuleName" value="sfdx-chan" />
-          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/sfdx_maria/OfflineSymbolTable.zip" />
-
+          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/sfdx_chan/OfflineSymbolTable.zip" />
         </IlluminatedCloudConnection>
       </list>
     </option>
